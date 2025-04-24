@@ -1,0 +1,9 @@
+/* Move nav items lower */
+.navbar-nav {
+    padding-top: 15px; /* adjust this value as needed */
+  }
+  
+  .nav-link {
+    padding-top: 20px; /* adds space inside each nav link */
+  }
+  
